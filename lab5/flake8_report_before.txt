@@ -1,0 +1,4 @@
+energy_system.py:1:80: E501 line too long (80 > 79 characters)
+energy_system.py:31:80: E501 line too long (84 > 79 characters)
+energy_system.py:74:80: E501 line too long (92 > 79 characters)
+energy_system.py:83:11: W292 no newline at end of file
