@@ -1,0 +1,8 @@
+************* Module energy_system
+energy_system.py:83:0: C0304: Final newline missing (missing-final-newline)
+energy_system.py:36:4: W0603: Using the global statement (global-statement)
+energy_system.py:49:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.46/10 (previous run: 9.46/10, +0.00)
+
